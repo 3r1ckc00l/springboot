@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LocalApplication<local>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "localhost.test.local.LocalApplication",
+            "projectName": "local",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
